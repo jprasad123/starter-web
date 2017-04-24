@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+   amit
     <name> -- <role> -- <twitter>
 
 # THANKS
